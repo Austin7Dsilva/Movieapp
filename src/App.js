@@ -97,7 +97,7 @@ function App() {
       <Container>
       <Header>Movie app using React
       <SearchBox>
-        <SearchIcon src="/search-icon.svg" />
+        <SearchIcon src="https://taramawh.sirv.com/magnifying-glass.png" />
         <SearchInput
             placeholder="Search Movie"
             value={searchQuery}
